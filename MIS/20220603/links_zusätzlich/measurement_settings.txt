@@ -1,0 +1,32 @@
+Pressure Measurement Program Settings
+Date and Time: 03.Jun.2022 16:24:29
+
+Ambient Parameter
+
+Ambient Pressure [Pa] : 	101650,0
+Ambient Temperatur [°C] : 	21,20
+Relative Humidity [%] : 	50,00
+Ambient Density [kg/m^3] : 	1,1975
+Kinematic Viscosity [m^2/s] : 	1,5059E-5
+
+Sampling Parameter
+
+Sampling Rate [1/s] : 	1000,0
+Number of Samples per Channel :  10000
+
+Channel Parameter
+
+Phys. Address	Name	Meas. Type	Sensor Range	Amplifier Gain	Channel Offset
+cDAQ9188-Druck1Mod2/ai0	 p01	 1000 Pa	 346,000000	 0,076721
+cDAQ9188-Druck1Mod2/ai1	 p02	 1000 Pa	 346,000000	 0,041479
+cDAQ9188-Druck1Mod2/ai2	 p03	 1000 Pa	 346,000000	 0,040964
+cDAQ9188-Druck1Mod2/ai3	 p04	 1000 Pa	 346,000000	 0,043316
+cDAQ9188-Druck1Mod2/ai4	 p05	 1000 Pa	 346,000000	 0,022397
+cDAQ9188-Druck1Mod2/ai5	 p06	 1000 Pa	 346,000000	 -0,042512
+cDAQ9188-Druck1Mod2/ai6	 p07	 1000 Pa	 346,000000	 0,068270
+cDAQ9188-Druck1Mod2/ai7	 p08	 1000 Pa	 346,000000	 0,056853
+cDAQ9188-Druck1Mod2/ai8	 p09	 1000 Pa	 346,000000	 -0,031304
+cDAQ9188-Druck1Mod2/ai9	 p10	 1000 Pa	 346,000000	 -0,000297
+cDAQ9188-Druck1Mod2/ai10	 p11	 1000 Pa	 346,000000	 -0,016224
+cDAQ9188-Druck1Mod2/ai11	 p12	 1000 Pa	 346,000000	 0,031560
+cDAQ9188-Druck1Mod2/ai12	 bara	 Bara 1000 Pa	 1,000000	 -0,002260
